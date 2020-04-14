@@ -1,1 +1,3 @@
-# Write your solution here
+if run
+   puts "Hi"# Write your solution here
+ end 
